@@ -1,3 +1,7 @@
 this is our first file
+<<<<<<< HEAD
 
 WITH CHANGES ! xyx
+=
+here is kati's change
+>>>>>>> d8ee03f788f86fa0b873fb12e81e9013aca4046c
